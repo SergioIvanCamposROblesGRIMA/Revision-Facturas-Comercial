@@ -1,7 +1,7 @@
 # Revision-Facturas-Comercial
 
 
-# 🧾 Sistema de Validación de Facturas y Órdenes de Compra v2.0
+# 🧾 Sistema de Validación de Facturas y Órdenes de Compra 
 
 Sistema empresarial automatizado para recibir, validar y reportar facturas contra órdenes de compra utilizando **OpenAI GPT-4**, **Google Drive** y **Google Chat**.
 
